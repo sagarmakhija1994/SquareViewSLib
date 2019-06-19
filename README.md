@@ -49,3 +49,11 @@ working with LinearLayout (weightSum/layout_weight)
 
         </com.simpli5infotech.squareviewslib.SquareLinearWidth>
     </LinearLayout>
+
+
+#Screenshots:
+
+https://github.com/sagarmakhija1994/SquareViewSLib/blob/master/view1.jpg
+https://github.com/sagarmakhija1994/SquareViewSLib/blob/master/view2.jpg
+https://github.com/sagarmakhija1994/SquareViewSLib/blob/master/view3.jpg
+https://github.com/sagarmakhija1994/SquareViewSLib/blob/master/view4.jpg
