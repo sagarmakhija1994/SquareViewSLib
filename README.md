@@ -3,6 +3,7 @@ A simple lib for maintain square for views
 
 
 #Usage:
+
 #Project Level:
 
 	allprojects {
@@ -16,7 +17,7 @@ A simple lib for maintain square for views
 #App Level:
 
 	dependencies {
-	        implementation 'com.github.sagarmakhija1994:SquareViewSLib:Tag'
+	        implementation 'com.github.sagarmakhija1994:SquareViewSLib:1.0.0'
 	}
 	
 	
