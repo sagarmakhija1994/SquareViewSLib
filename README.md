@@ -3,6 +3,23 @@ A simple lib for maintain square for views
 
 
 #Usage:
+#Project Level:
+
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+	
+	
+#App Level:
+
+	dependencies {
+	        implementation 'com.github.sagarmakhija1994:SquareViewSLib:Tag'
+	}
+	
+	
 can be use direct in parent view
 
 note**: it not working direct under ConstraintLayout
